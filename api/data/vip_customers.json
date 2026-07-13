@@ -1,0 +1,5 @@
+{
+  "0511111111": {"is_vip": true,  "loyalty_points": 450, "free_drink_eligible": true},
+  "0522222222": {"is_vip": true,  "loyalty_points": 120, "free_drink_eligible": false},
+  "0599999999": {"is_vip": false, "loyalty_points": 0,   "free_drink_eligible": false}
+}

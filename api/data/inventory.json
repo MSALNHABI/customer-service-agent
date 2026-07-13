@@ -1,0 +1,26 @@
+{
+  "Hittin": {
+    "Saffron Cake":  {"in_stock": true,  "quantity_remaining": 4},
+    "V60":           {"in_stock": true,  "quantity_remaining": 20},
+    "Spanish Latte": {"in_stock": true,  "quantity_remaining": 50}
+  },
+  "Al-Malqa": {
+    "Saffron Cake":  {"in_stock": false, "quantity_remaining": 0},
+    "Cold Brew":     {"in_stock": true,  "quantity_remaining": 12}
+  },
+  "Al-Zahra": {
+    "Dates Pudding": {"in_stock": true,  "quantity_remaining": 8},
+    "V60":           {"in_stock": true,  "quantity_remaining": 15}
+  },
+  "Riyadh Front": {
+    "Flat White":         {"in_stock": true,  "quantity_remaining": 30},
+    "Mini San Sebastian": {"in_stock": true,  "quantity_remaining": 6},
+    "Iced Matcha":        {"in_stock": false, "quantity_remaining": 0}
+  },
+  "Jeddah Yacht Club": {
+    "Cold Brew":     {"in_stock": true,  "quantity_remaining": 18},
+    "Iced Hibiscus": {"in_stock": true,  "quantity_remaining": 22},
+    "Saffron Cake":  {"in_stock": true,  "quantity_remaining": 3}
+  }
+}
+
